@@ -1,0 +1,20 @@
+.itemDetail {
+    text-align: left;
+    background-color: #fff;
+    padding: 32px;
+}
+
+.itemTitle {
+    font-size: 24px;
+}
+.itemSales {
+    font-size: 14px;
+}
+.itemPrice {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    font-size: 46px;
+}
+.itemDescriptionTitle {
+    padding-bottom: 32px;
+}

@@ -1,0 +1,21 @@
+.colorML {
+	background-color: #ffe600;
+}
+
+.botonBuscar {
+	background-color: #eeeeee !important;
+}
+
+.iconLupa {
+	background: url("../../assets/ic_Search.png");
+	height: 18px;
+	width: 18px;
+	display: block;
+}
+
+.iconML {
+	background: url("../../assets/Logo_ML.png");
+	height: 36px;
+	width: 53px;
+	display: block;
+}

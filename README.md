@@ -3,7 +3,7 @@ Meli :)
 Para levantar el server correr 
 
     cd server
-    PORT=3001 node bin/www
+    node bin/www
 
 Para correr el cliente 
 
